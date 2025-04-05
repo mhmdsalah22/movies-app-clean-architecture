@@ -2,6 +2,9 @@
 
 **Movies** is a cutting-edge application designed to showcase a vast collection of films from various genres. Built using **Flutter** and following the principles of **Clean Architecture**, the app ensures modular, scalable, and maintainable code. With its intuitive design and seamless performance, **Movies** offers a delightful experience for all movie enthusiasts.
 
+## Screenshots
+  ![image_original (3)](https://github.com/user-attachments/assets/19ba67a0-70e7-44a3-b2b3-5beee8cd7b73)
+
 ## Key Features
 
 ### API Integration
@@ -47,8 +50,6 @@ Follow these steps to set up and run the application locally:
    ```bash
    flutter run
 
-## Screenshots
-  ![image_original (3)](https://github.com/user-attachments/assets/19ba67a0-70e7-44a3-b2b3-5beee8cd7b73)
 
 
    
